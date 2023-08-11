@@ -1,0 +1,9 @@
+[
+    {
+        "email": "test@mail.com",
+        "password": "12345",
+        "address": "jl. in aja dulu",
+        "role": "Admin",
+        "phoneNumber": 14045
+    }
+]
